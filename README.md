@@ -124,30 +124,31 @@ Streamlit Dashboard
 
 ## Dashboard Screenshots
 
+## Dashboard Screenshots
+
 ### Executive Overview
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](screenshots/executive_overview.png.png)
 
 ### Territory Intelligence
 
-![Territory Intelligence](screenshots/territory_intelligence.png)
+![Territory Intelligence](screenshots/territory_intelligence.png.png)
 
 ### Customer Intelligence
 
-![Customer Intelligence](screenshots/customer_intelligence.png)
+![Customer Intelligence](screenshots/customer_intelligence.png.png)
 
 ### Product Intelligence
 
-![Product Intelligence](screenshots/product_intelligence.png)
+![Product Intelligence](screenshots/product_intelligence.png.png)
 
 ### Forecasting
 
-![Forecasting](screenshots/forecasting.png)
+![Forecasting](screenshots/forecasting.png.png)
 
 ### Executive Insights
 
-![Executive Insights](screenshots/executive_insights.png)
-
+![Executive Insights](screenshots/executive_insights.png.png)
 ---
 
 ## Key Business Insights
